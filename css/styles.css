@@ -421,7 +421,7 @@ iframe {
 @media (min-width:992px) {
   .section-vcardbody {
     position: absolute;
-    margin-top: 40px;
+    margin-top: 45px;
     left: 30%;
     height: 570px;
     width: 40%;
